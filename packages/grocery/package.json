@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "banana": "^1.0.1"
+    "banana": "^1.0.1",
+    "apple": "^1.0.1",
+    "sillyname": "^0.1.0"
   }
 }

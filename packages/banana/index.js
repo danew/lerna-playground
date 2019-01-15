@@ -1,3 +1,3 @@
-import sillyname from 'sillyname';
+const sillyname = require('sillyname');
 
-export default ['Banana', sillyname()];
+module.exports = ['Banana', sillyname()];
